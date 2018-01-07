@@ -18,7 +18,7 @@
 
 三：流程说明 流程图如下： 
 
-![image](https://github.com/dpxiaolong/SimpleButterknife/blob/master/ButterKnife_flow.png)
+![image](https://github.com/dpxiaolong/SimpleButterknife/blob/master/inject_flow2.png)
  
 四：使用示例
 
